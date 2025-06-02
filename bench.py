@@ -8,7 +8,6 @@ import time
 import torch
 from model import GPTConfig, GPT
 
-print("Bebilüs")
 # -----------------------------------------------------------------------------
 batch_size = 12
 block_size = 1024
